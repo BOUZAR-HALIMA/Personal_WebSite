@@ -1,5 +1,5 @@
 body{
-    background-color: #FCE2DB;
+    background-color:  #FFF9F9;
     color: rgba(0, 0, 0);
 
 }
@@ -11,10 +11,13 @@ img{
 hr{
     border-style: dotted none none ;
     border-width: 8px;
-    border-color:  #C9B0A9;
+    border-color:  #fdedeb;
     width: 6%;
 }
 
+h1,h3{
+    color: #D77FA1;
+}
 td{
     padding-left: 20px;
 }
